@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋,I'm MichelleBlumer</h1>
 <h3 align="center">Web Developer and Content Creator</h3>
 
-- 🔭 I’m currently working on **The applications of the education department of the Basque Goverment**
+- 🔭 I’m currently working on **Web applications for the education department of the Basque Government**
 
 - 🌱 I’m currently learning **Swift and Android Mobile Development**
 
